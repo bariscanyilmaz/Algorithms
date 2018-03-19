@@ -1,0 +1,7 @@
+D:\Projects\Algorithms\Algorithms\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\Projects\Algorithms\Algorithms\SelectionSort\bin\Debug\SelectionSort.exe
+D:\Projects\Algorithms\Algorithms\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\Projects\Algorithms\Algorithms\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+D:\Projects\Algorithms\Algorithms\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\Algorithms\SelectionSort\obj\Debug\SelectionSort.exe
+D:\Projects\Algorithms\Algorithms\SelectionSort\obj\Debug\SelectionSort.pdb

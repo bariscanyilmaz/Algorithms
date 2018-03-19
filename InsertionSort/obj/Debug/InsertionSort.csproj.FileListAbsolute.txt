@@ -1,0 +1,6 @@
+D:\Projects\Algorithms\Algorithms\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\Projects\Algorithms\Algorithms\InsertionSort\bin\Debug\InsertionSort.exe
+D:\Projects\Algorithms\Algorithms\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\Projects\Algorithms\Algorithms\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\Algorithms\InsertionSort\obj\Debug\InsertionSort.exe
+D:\Projects\Algorithms\Algorithms\InsertionSort\obj\Debug\InsertionSort.pdb

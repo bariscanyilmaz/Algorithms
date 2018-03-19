@@ -1,0 +1,7 @@
+D:\Projects\Algorithms\Algorithms\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Projects\Algorithms\Algorithms\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Projects\Algorithms\Algorithms\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Projects\Algorithms\Algorithms\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\Projects\Algorithms\Algorithms\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Projects\Algorithms\Algorithms\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Projects\Algorithms\Algorithms\BubbleSort\obj\Debug\BubbleSort.pdb
